@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Lora|Roboto");
+@import url("components/container.css"); 
+
+body  { 
+  font-family: 'Lora', serif ; 
+  font-size: 18px;
+  padding-left: 25vw;
+}
+h1, h2, h3 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
