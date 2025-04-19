@@ -6,7 +6,13 @@ body  {
   font-size: 18px;
   padding-left: 25vw;
 }
+
 h1, h2, h3 {
   font-family: 'Roboto', sans-serif;
   font-weight: bold;
+}
+
+.container{
+ 	width: 700px;
+ 	margin: 0 auto;
 }
